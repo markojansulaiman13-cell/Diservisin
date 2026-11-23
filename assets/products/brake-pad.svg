@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400"><defs><radialGradient id="sh" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#0D172B" stop-opacity=".28"/><stop offset="1" stop-color="#0D172B" stop-opacity="0"/></radialGradient><linearGradient id="m" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F1F3F6"/><stop offset=".5" stop-color="#A3ABB6"/><stop offset="1" stop-color="#6B7280"/></linearGradient>
+<linearGradient id="f" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#45403B"/><stop offset="1" stop-color="#1C1917"/></linearGradient>
+<g id="pad">
+  <circle cx="60" cy="120" r="28" fill="url(#m)" stroke="#4B5563" stroke-width="2"/>
+  <path d="M60 150C60 112 92 96 130 96L282 92C326 92 344 118 344 150V214C344 244 322 262 290 262L118 268C84 270 60 250 60 222Z" fill="url(#m)" stroke="#4B5563" stroke-width="2"/>
+  <circle cx="56" cy="116" r="10" fill="#FFFFFF" stroke="#6B7280" stroke-width="3"/>
+  <path d="M94 150C94 128 112 120 136 120L278 118C304 118 318 132 318 154V208C318 228 304 238 284 238L128 242C106 243 94 232 94 214Z" fill="url(#f)"/>
+  <rect x="203" y="121" width="7" height="119" fill="#0F0D0C" opacity=".75"/>
+  <path d="M110 132L300 128" stroke="#fff" stroke-opacity=".14" stroke-width="3"/>
+</g>
+</defs><ellipse cx="205" cy="360" rx="140" ry="13" fill="url(#sh)"/>
+<g transform="translate(22 6) scale(.9)">
+  <use href="#pad" transform="translate(6 -14) rotate(-9 200 180)"/>
+  <use href="#pad" transform="translate(-4 92) rotate(5 200 180)"/>
+</g>
+</svg>

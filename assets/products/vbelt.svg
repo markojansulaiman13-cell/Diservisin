@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400"><defs><radialGradient id="sh" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#0D172B" stop-opacity=".28"/><stop offset="1" stop-color="#0D172B" stop-opacity="0"/></radialGradient><linearGradient id="roll" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".45" stop-color="#E5E7EB"/><stop offset="1" stop-color="#9CA3AF"/></linearGradient>
+<g id="roller"><rect x="-24" y="-19" width="46" height="38" rx="7" fill="url(#roll)" stroke="#9CA3AF" stroke-width="1.5"/><ellipse cx="22" cy="0" rx="8" ry="19" fill="#D1D5DB" stroke="#9CA3AF" stroke-width="1.5"/><ellipse cx="22" cy="0" rx="3" ry="7" fill="#9CA3AF"/></g>
+</defs><ellipse cx="205" cy="368" rx="150" ry="13" fill="url(#sh)"/>
+<g transform="rotate(-8 200 170)">
+  <ellipse cx="200" cy="160" rx="150" ry="90" fill="none" stroke="#141414" stroke-width="32"/>
+  <ellipse cx="200" cy="160" rx="150" ry="90" fill="none" stroke="#2E2E31" stroke-width="14"/>
+  <ellipse cx="200" cy="160" rx="132" ry="72" fill="none" stroke="#050505" stroke-width="9" stroke-dasharray="7 7"/>
+  <ellipse cx="200" cy="160" rx="165" ry="105" fill="none" stroke="#fff" stroke-opacity=".1" stroke-width="3"/>
+  <path d="M70 120a150 90 0 0 1 90-52" stroke="#fff" stroke-opacity=".16" stroke-width="6" fill="none" stroke-linecap="round"/>
+</g>
+<use href="#roller" transform="translate(118 286)"/><use href="#roller" transform="translate(188 282)"/><use href="#roller" transform="translate(258 286)"/><use href="#roller" transform="translate(150 326)"/><use href="#roller" transform="translate(220 324)"/><use href="#roller" transform="translate(290 328)"/>
+</svg>

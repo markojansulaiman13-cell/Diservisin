@@ -1,0 +1,25 @@
+{
+  "name": "Diservisin — Servis Motor Transparan & Garansi Digital",
+  "short_name": "Diservisin",
+  "description": "Katalog sparepart & pelumas transparan, kartu garansi digital anti-hilang, loyalitas otomatis, dan kasir POS bengkel motor.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#004FE0",
+  "orientation": "portrait-primary",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
